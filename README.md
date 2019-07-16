@@ -4,5 +4,5 @@
 
 * 강의 슬라이드
   * [MPI 기초](https://www.dropbox.com/s/v6sbjye80mlvztg/MPI%20%EA%B8%B0%EC%B4%88.pdf?dl=0)
-  * MPI 고급 
+  * [MPI 고급](https://www.dropbox.com/s/qbhiae4al5l0rlj/MPI%20%EA%B3%A0%EA%B8%89.pdf?dl=0) 
   * [MPI 과제](https://www.dropbox.com/s/q8zldm4pk198v6h/MPI%20%EA%B3%BC%EC%A0%9C.pdf?dl=0)
