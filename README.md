@@ -1,2 +1,3 @@
-# youth-camp-2019
-Codes in Supercomputing Youth Camp 2019
+# 슈퍼컴퓨팅 청소년캠프 2019
+
+청소년캠프 MPI 수업에서 사용하는 코드 저장소입니다.
